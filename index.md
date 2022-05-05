@@ -597,9 +597,9 @@ The OODC was established in São Paulo in 2002 by the city’s Strategic Master 
 [^1]: As a matter of comparison, São Paulo's budget in 2020 was R$69 billion, while the OODC revenue for that year was R$ 5.4 million.
 
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/97998623/166829046-9132010d-3f93-41c9-af93-8c235a252d77.png">
-Source: [SP’s Gestão Urbana webpage](https://gestaourbana.prefeitura.sp.gov.br/) 
+Source: [Gestão Urbana](https://gestaourbana.prefeitura.sp.gov.br/) 
 
-
+<br>
 _Revenue_:
 
 The two charts below show  OODC revenues and spending over the years. Due to limited data availability, the charts present figures only from 2013 to 2020. During this time period R$ 2.8 billion ($0.6 billion) were raised by the OODC. Between 2019 and 2020, lower interest rates impacted positively the real estate market, boosting OODC revenues. Also, changes made to São Paulo's master plan in 2014, altered the standardized formula used to calculate the charge levied on developers via the ODDC, increasing revenue generation.
@@ -620,7 +620,7 @@ In São Paulo, OODC revenues have a **redistributive purpose**; revenues collect
 * Q2. Have OODC revenues been spent in areas with higher demand for infrastructure?
 * Q3. What type of public projects were funded with OODC revenues? 
 
-To answer these questions, I explore several datasets of the following sources:
+To answer these questions, I explore some datasets available at:
 * [SP’s Master Plan monitoring webpage](https://monitoramentopde.gestaourbana.prefeitura.sp.gov.br/) 
 * [IBGE – 2010 Brazilian Census- API](https://www.ibge.gov.br/en/home-eng.html)
 
@@ -629,48 +629,39 @@ To answer these questions, I explore several datasets of the following sources:
 <br>
 ### REVENUE AND SPENDING
 
-_Where are OODC revenues raised?_:
+
+_**Where were OODC revenues raised?**_
 
 The collection of OODC has not been homogeneous throughout the city. The map below shows, the percentage of population living in favelas in each city district, as well as real estate projects (red dots) that paid OODC between 2013 and 2020. Most of these projects are located in the southweast part of the city, where high-income households live and the real estate market concentrates its activities.  
-<img width="516" alt="image" src="https://user-images.githubusercontent.com/97998623/167017864-d35a2a2e-623f-4bc3-8ac3-e36e19171017.png">
-
-
-_Where are the OODC funds spent?_:
+<img width="516" height="400" alt="image" src="https://user-images.githubusercontent.com/97998623/167017864-d35a2a2e-623f-4bc3-8ac3-e36e19171017.png">
+_**Where are the OODC funds spent?**_
  
 Spending of OODC funds has not been uniform either. As the map below shows, between 2013 and 2020, spending was concentrated in the São Paulo's historic center and in some peripheral districts in the South and East part of the city, where low-income households are concentrated. Still, the amount spent in many poor districts was very low, ranging between $5million and $17million, corresponding to the amount spent on many high-income areas in the southweast region.
-<img width="516" alt="image" src="https://user-images.githubusercontent.com/97998623/167019593-c0b77756-2dd5-489c-a854-f8904cfae936.png">
-
-
+<img width="516" height="400" alt="image" src="https://user-images.githubusercontent.com/97998623/167019593-c0b77756-2dd5-489c-a854-f8904cfae936.png">
 Another way of looking at the same question, is by observing the map below. This map shows the ratio of OODC spending to OODC revenues by District. A ratio higher than one means that a district receive more OODC spending than what it generated. Considering the OODC redistributive purposes, we expect to see higher ratios in low-income districts (predominantly located in the periphery and in the city's historic center). And that is what we found!
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/97998623/167022309-b96afc22-d999-4994-8f67-0622e4ce5dc0.png">
 
 
 
-
-### OODC SPENDING CATEGORY
+<br>
+### OODC SPENDING: BREAKDOWN
 Analyze how were OODC funds used 
-
 xxxxxxxxxxx
-
-<img width="516" alt="image" src="https://user-images.githubusercontent.com/97998623/166984885-b9484888-e769-4eaf-9a57-f3c6ef0b3c61.png">
-
-xxxxxx
-xxxxxxxxxxxxxx
-
-![pierchart_districts_cat_Types](https://user-images.githubusercontent.com/97998623/166984896-b086d91a-7efe-4ab9-b873-11ea74162425.png)
+<img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/97998623/166984885-b9484888-e769-4eaf-9a57-f3c6ef0b3c61.png">
+xxxxxxxxxxxxxxxxxxxx
+<img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/97998623/166984896-b086d91a-7efe-4ab9-b873-11ea74162425.png">
 
 
 
-
-### A CLOSER LOOK AT THE INVESTMENT ON HOUSING
+<br>
+### OODC SPENDING: HOUSING
 Include analysis of the two graph below.hbsfkjbskgbbglsdnglskng;n;kgen
 dknfgnglrglberg
-
 TO DO: INTERACTIVE MAP SP
 
 
 
-
+<br>
 ### CONCLUSION
 
 In line with the rationale that 
@@ -679,42 +670,4 @@ a recent blog post notes, “the prefeitura not only broadens the amount of reso
 
 
 
-
-
-
-
-
-
-## Welcome CLASS
-
-You can use the [editor on GitHub](https://github.com/flavia-leite/OODC_Sao_Paulo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flavia-leite/OODC_Sao_Paulo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br>
