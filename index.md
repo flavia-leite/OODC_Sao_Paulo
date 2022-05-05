@@ -2,8 +2,9 @@
 by Flávia Leite
 
 
-## INTRODUCTION
+### INTRODUCTION
 The **Outorga Onerosa do Direito de Construir (OODC)** - or the onerous grant of the right to build - is one of Brazil's main instruments of  municipal urban planning. The OODC was brought in by the 2001 Statute of the City (Estatuto da Cidade), the national law regulating the Brazilian Constitution’s articles on urban policy.The OODC regulates the payment by Developers of additional building rights. The resources generated with the OODC in each city are deposited into a reserve fund used to provide urban improvements of social interest across the municipality.
+
 
 Although regulated at the national level in 2001, the OODC is still a poorly disseminated instrument among Brazilian cities. Currently, only 40% of the more than 5 thousand Brazilian municipalities have a specific legislation concerning the use of the OODC(IBGE, 2018). The map below shows the status of the OODC use in Brazil's 26 State capitals and the Federal District (Brazília). Out of the 27 cities, 20 have specific legislation codifying the implementation of the OODC, but only 16 of them implement the instrument.
 
@@ -591,8 +592,14 @@ Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](ht
 
 
 
-## QUESTIONS AND METHODOLOGY
-In São Paulo, OODC revenues are allocated to the **Urban Development Fund (FUNDURB)** and earmarked to finance social housing, infrastructure, and other investments across the city. 
+# QUESTIONS AND METHODOLOGY
+The OODC was established in São Paulo in 2002 by the city’s Strategic Master Plan. Since then the instrument have raised more than R$ 4.4 billion (around $0.9 billion), in about 3.5 thousand real estate projects. In São Paulo, OODC revenues are allocated to the **Urban Development Fund (FUNDURB)** and earmarked to finance social housing, infrastructure, and other urban improvements of social interest to the community. 
+
+
+![OODC_REV_SPEN_CHARTS](https://user-images.githubusercontent.com/97998623/166984385-92ad03bf-4a2d-42b0-b7d3-d1522bd4d79d.png)
+
+
+
 OODC revenues have a **redistributive purpose**; revenues collected in the most developed parts of the city should be spent on the most vulnerable areas. 
 
 Given its redistributive objectives, my project aims to answer the following set of questions: 
