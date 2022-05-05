@@ -591,8 +591,7 @@ Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](ht
 
 
 
-
-# QUESTIONS AND METHODOLOGY
+### QUESTIONS AND METHODOLOGY
 The OODC was established in São Paulo in 2002 by the city’s Strategic Master Plan. Since then the instrument have raised more than R$ 4.4 billion (around $0.9 billion), in about 3.5 thousand real estate projects. In São Paulo, OODC revenues are allocated to the **Urban Development Fund (FUNDURB)** and earmarked to finance social housing, infrastructure, and other urban improvements of social interest to the community. 
 
 
@@ -617,7 +616,7 @@ To answer these questions, I am going to explore the following datasets:
 
 
 
-## REVENUES AND SPENDING
+### REVENUES AND SPENDING
 
 TO DO: MAPA INTERATIVO BRASIL
 
@@ -628,21 +627,21 @@ TO DO: GRAFICOS RECEITA X DESPESA
 
 
 
-
-## OODC SPENDING CATEGORY
-Include analysis of the two graph below.hbsfkjbskgbbglsdnglskng;n;kgen
-dknfgnglrglberg
-
+### OODC SPENDING CATEGORY
+Include analysis of the two graph below.
+xxxxxxxxxxx
 
 ![pierchart_sp_category](https://user-images.githubusercontent.com/97998623/166984885-b9484888-e769-4eaf-9a57-f3c6ef0b3c61.png)
 
-
+xxxxxx
+xxxxxxxxxxxxxx
 
 ![pierchart_districts_cat_Types](https://user-images.githubusercontent.com/97998623/166984896-b086d91a-7efe-4ab9-b873-11ea74162425.png)
 
 
 
-## A CLOSER LOOK AT THE INVESTMENT ON HOUSING
+
+### A CLOSER LOOK AT THE INVESTMENT ON HOUSING
 Include analysis of the two graph below.hbsfkjbskgbbglsdnglskng;n;kgen
 dknfgnglrglberg
 
@@ -651,8 +650,7 @@ TO DO: INTERACTIVE MAP SP
 
 
 
-
-## CONCLUSION
+### CONCLUSION
 
 
 
