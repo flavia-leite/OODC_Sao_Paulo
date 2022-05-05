@@ -9,6 +9,8 @@ The **Outorga Onerosa do Direito de Construir (OODC)** - or the onerous grant of
 Although regulated at the national level in 2001, the OODC is still a poorly disseminated instrument among Brazilian cities. Currently, only 40% of the more than 5 thousand Brazilian municipalities have a specific legislation concerning the use of the OODC(IBGE, 2018). The map below shows the status of the OODC use in Brazil's 26 State capitals and the Federal District (Brazília). Out of the 27 cities, 20 have specific legislation codifying the implementation of the OODC, but only 16 of them implement the instrument.
 
 
+Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <!DOCTYPE html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -34,7 +36,7 @@ Although regulated at the national level in 2001, the OODC is still a poorly dis
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_7b9002182da74dfa84a2c3e4259edad5 {
+                #map_637b5a6073704179b775280f2a29f2be {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -46,13 +48,13 @@ Although regulated at the national level in 2001, the OODC is still a poorly dis
 </head>
 <body>    
     
-            <div class="folium-map" id="map_7b9002182da74dfa84a2c3e4259edad5" ></div>
+            <div class="folium-map" id="map_637b5a6073704179b775280f2a29f2be" ></div>
         
 </body>
 <script>    
     
-            var map_7b9002182da74dfa84a2c3e4259edad5 = L.map(
-                "map_7b9002182da74dfa84a2c3e4259edad5",
+            var map_637b5a6073704179b775280f2a29f2be = L.map(
+                "map_637b5a6073704179b775280f2a29f2be",
                 {
                     center: [-15.7975, -47.8919],
                     crs: L.CRS.EPSG3857,
@@ -66,528 +68,525 @@ Although regulated at the national level in 2001, the OODC is still a poorly dis
 
         
     
-            var tile_layer_03cfb964936b4d74aa727ed1a0f5a7e5 = L.tileLayer(
+            var tile_layer_478cc782e4764012aebee4df1d300839 = L.tileLayer(
                 "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
                 {"attribution": "\u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-            var circle_marker_36040e61d24a4b719be0b2f440cc4c93 = L.circleMarker(
+            var circle_marker_718212bbb1884d4ba70b4bbbf59d8696 = L.circleMarker(
                 [-10.57, -37.45],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_f6bfe4098d98423e965b08bf0a80fa6f = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_463355de551248fa818497be98096875 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_ade9ba6fb562448892d351f7ed99d5bd = $(`<div id="html_ade9ba6fb562448892d351f7ed99d5bd" style="width: 100.0%; height: 100.0%;"> - City: ARACAJU<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_f6bfe4098d98423e965b08bf0a80fa6f.setContent(html_ade9ba6fb562448892d351f7ed99d5bd);
+            var html_7231f36c24c94baf983ff38c3490d6a2 = $(`<div id="html_7231f36c24c94baf983ff38c3490d6a2" style="width: 100.0%; height: 100.0%;"> - City: ARACAJU<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_463355de551248fa818497be98096875.setContent(html_7231f36c24c94baf983ff38c3490d6a2);
         
 
-        circle_marker_36040e61d24a4b719be0b2f440cc4c93.bindPopup(popup_f6bfe4098d98423e965b08bf0a80fa6f)
+        circle_marker_718212bbb1884d4ba70b4bbbf59d8696.bindPopup(popup_463355de551248fa818497be98096875)
         ;
 
         
     
     
-            var circle_marker_6d74aa787f3e4fa4ad5b4de1f7c19d82 = L.circleMarker(
+            var circle_marker_ef8e3f8449024ebcb2828648929bc69c = L.circleMarker(
                 [1.99, -61.33],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_4f5e3a1e532043d9857b67009658d263 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_741258e1a7a64c86bd258eec404aa087 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_b1a421335c974e2eb40367e1338791d8 = $(`<div id="html_b1a421335c974e2eb40367e1338791d8" style="width: 100.0%; height: 100.0%;"> - City: BOA VISTA<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_4f5e3a1e532043d9857b67009658d263.setContent(html_b1a421335c974e2eb40367e1338791d8);
+            var html_f6a3599db9bd40d19c05ac214c0b0305 = $(`<div id="html_f6a3599db9bd40d19c05ac214c0b0305" style="width: 100.0%; height: 100.0%;"> - City: BOA VISTA<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_741258e1a7a64c86bd258eec404aa087.setContent(html_f6a3599db9bd40d19c05ac214c0b0305);
         
 
-        circle_marker_6d74aa787f3e4fa4ad5b4de1f7c19d82.bindPopup(popup_4f5e3a1e532043d9857b67009658d263)
+        circle_marker_ef8e3f8449024ebcb2828648929bc69c.bindPopup(popup_741258e1a7a64c86bd258eec404aa087)
         ;
 
         
     
     
-            var circle_marker_a655209c910045fc8eaaa89817a427f7 = L.circleMarker(
+            var circle_marker_dfb1d16bac544719a794dd6818a5412d = L.circleMarker(
                 [-20.51, -54.54],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_344d4ff51fea4737bd69e57f98e9af8c = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_d41f49dfdb31409d8894f1224cbc9434 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_28cc473084734e97b297f77ba4752e7d = $(`<div id="html_28cc473084734e97b297f77ba4752e7d" style="width: 100.0%; height: 100.0%;"> - City: CAMPO GRANDE<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_344d4ff51fea4737bd69e57f98e9af8c.setContent(html_28cc473084734e97b297f77ba4752e7d);
+            var html_38cf745bc3f44e13bbbcb8b78b30d653 = $(`<div id="html_38cf745bc3f44e13bbbcb8b78b30d653" style="width: 100.0%; height: 100.0%;"> - City: CAMPO GRANDE<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_d41f49dfdb31409d8894f1224cbc9434.setContent(html_38cf745bc3f44e13bbbcb8b78b30d653);
         
 
-        circle_marker_a655209c910045fc8eaaa89817a427f7.bindPopup(popup_344d4ff51fea4737bd69e57f98e9af8c)
+        circle_marker_dfb1d16bac544719a794dd6818a5412d.bindPopup(popup_d41f49dfdb31409d8894f1224cbc9434)
         ;
 
         
     
     
-            var circle_marker_a1476ec73dd94d078b0b47bdfbe36537 = L.circleMarker(
+            var circle_marker_60e3047525bb4bc39e300a482656ce6f = L.circleMarker(
                 [1.41, -51.77],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_dff2de765aaa4a1ea48d70629e520334 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_58b31c32ea6a4fe69d29442b0d564113 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_d042a04da08d46eebe1b530433bbf021 = $(`<div id="html_d042a04da08d46eebe1b530433bbf021" style="width: 100.0%; height: 100.0%;"> - City: MACAPA<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_dff2de765aaa4a1ea48d70629e520334.setContent(html_d042a04da08d46eebe1b530433bbf021);
+            var html_1ba0a0630350418a9be784a69dd6a0d3 = $(`<div id="html_1ba0a0630350418a9be784a69dd6a0d3" style="width: 100.0%; height: 100.0%;"> - City: MACAPA<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_58b31c32ea6a4fe69d29442b0d564113.setContent(html_1ba0a0630350418a9be784a69dd6a0d3);
         
 
-        circle_marker_a1476ec73dd94d078b0b47bdfbe36537.bindPopup(popup_dff2de765aaa4a1ea48d70629e520334)
+        circle_marker_60e3047525bb4bc39e300a482656ce6f.bindPopup(popup_58b31c32ea6a4fe69d29442b0d564113)
         ;
 
         
     
     
-            var circle_marker_0bec9ea073d24dcab41c51c886eedd8f = L.circleMarker(
+            var circle_marker_c57641ea411b4f148e4ee002e06d8207 = L.circleMarker(
                 [-8.38, -37.86],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_d6f709832e6141c7833d9f55b3af3a6c = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_a4a8c83b221043a4b51172255dd2d22d = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_78883429d28345319420943b7459e0f9 = $(`<div id="html_78883429d28345319420943b7459e0f9" style="width: 100.0%; height: 100.0%;"> - City: RECIFE<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_d6f709832e6141c7833d9f55b3af3a6c.setContent(html_78883429d28345319420943b7459e0f9);
+            var html_1630aa1210fc4abfab3a4173f486609d = $(`<div id="html_1630aa1210fc4abfab3a4173f486609d" style="width: 100.0%; height: 100.0%;"> - City: RECIFE<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_a4a8c83b221043a4b51172255dd2d22d.setContent(html_1630aa1210fc4abfab3a4173f486609d);
         
 
-        circle_marker_0bec9ea073d24dcab41c51c886eedd8f.bindPopup(popup_d6f709832e6141c7833d9f55b3af3a6c)
+        circle_marker_c57641ea411b4f148e4ee002e06d8207.bindPopup(popup_a4a8c83b221043a4b51172255dd2d22d)
         ;
 
         
     
     
-            var circle_marker_1376df74f55447dd8a55576d612c48f5 = L.circleMarker(
+            var circle_marker_6c3b701c3aee4f63bfbb9dfdf408db7d = L.circleMarker(
                 [-8.77, -70.55],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_097f9de5b1e14100bb7361ed9653d90b = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_69773c7be2e340a09fda8c1d26bd0f41 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_fc85487e58ce4d818f0fa1edf33e2e37 = $(`<div id="html_fc85487e58ce4d818f0fa1edf33e2e37" style="width: 100.0%; height: 100.0%;"> - City: RIO BRANCO<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_097f9de5b1e14100bb7361ed9653d90b.setContent(html_fc85487e58ce4d818f0fa1edf33e2e37);
+            var html_0bcf189ce80f445eb5bb7123e856b44f = $(`<div id="html_0bcf189ce80f445eb5bb7123e856b44f" style="width: 100.0%; height: 100.0%;"> - City: RIO BRANCO<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_69773c7be2e340a09fda8c1d26bd0f41.setContent(html_0bcf189ce80f445eb5bb7123e856b44f);
         
 
-        circle_marker_1376df74f55447dd8a55576d612c48f5.bindPopup(popup_097f9de5b1e14100bb7361ed9653d90b)
+        circle_marker_6c3b701c3aee4f63bfbb9dfdf408db7d.bindPopup(popup_69773c7be2e340a09fda8c1d26bd0f41)
         ;
 
         
     
     
-            var circle_marker_69036620ccb644d0b3db2543f36a7472 = L.circleMarker(
+            var circle_marker_69e0628c7bc5463794daaf6039bdd8aa = L.circleMarker(
                 [-5.42, -45.44],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_e389256d956f4fe1bc5115ffe1300411 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_8905d5cd3779493ab9e9c1acd1cf8476 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_833f46dae75a4719a2f5485c829d5e3d = $(`<div id="html_833f46dae75a4719a2f5485c829d5e3d" style="width: 100.0%; height: 100.0%;"> - City: SAO LUIS<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_e389256d956f4fe1bc5115ffe1300411.setContent(html_833f46dae75a4719a2f5485c829d5e3d);
+            var html_f0da49e02990454ab9c79fa26407f7dc = $(`<div id="html_f0da49e02990454ab9c79fa26407f7dc" style="width: 100.0%; height: 100.0%;"> - City: SAO LUIS<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_8905d5cd3779493ab9e9c1acd1cf8476.setContent(html_f0da49e02990454ab9c79fa26407f7dc);
         
 
-        circle_marker_69036620ccb644d0b3db2543f36a7472.bindPopup(popup_e389256d956f4fe1bc5115ffe1300411)
+        circle_marker_69e0628c7bc5463794daaf6039bdd8aa.bindPopup(popup_8905d5cd3779493ab9e9c1acd1cf8476)
         ;
 
         
     
     
-            var circle_marker_51242bd1c2fa4380bcaf39572f546b10 = L.circleMarker(
+            var circle_marker_52849322eb8a4e04ad4d3605a5e4c15d = L.circleMarker(
                 [-18.1, -44.38],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_a30d60fc949841b79386dd9690630ee6 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_2e3d2c8169184a4682e84eba557a4190 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_f4edd2929eb5478e978c12abc6961904 = $(`<div id="html_f4edd2929eb5478e978c12abc6961904" style="width: 100.0%; height: 100.0%;"> - City: BELO HORIZONTE<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_a30d60fc949841b79386dd9690630ee6.setContent(html_f4edd2929eb5478e978c12abc6961904);
+            var html_2ec009b58c984a11be72691dc124876b = $(`<div id="html_2ec009b58c984a11be72691dc124876b" style="width: 100.0%; height: 100.0%;"> - City: BELO HORIZONTE<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_2e3d2c8169184a4682e84eba557a4190.setContent(html_2ec009b58c984a11be72691dc124876b);
         
 
-        circle_marker_51242bd1c2fa4380bcaf39572f546b10.bindPopup(popup_a30d60fc949841b79386dd9690630ee6)
+        circle_marker_52849322eb8a4e04ad4d3605a5e4c15d.bindPopup(popup_2e3d2c8169184a4682e84eba557a4190)
         ;
 
         
     
     
-            var circle_marker_116b7913c9d948ae819b853e51733e8f = L.circleMarker(
+            var circle_marker_d2997d2e25e34b28813568fd4143dfeb = L.circleMarker(
                 [-12.64, -55.42],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_c5c8c2dbb64141ba93cf8a6117a92188 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_a40bceb5fef34246b61d6aad2d4465be = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_eece0790e90f404f9a8c43fd09c6062e = $(`<div id="html_eece0790e90f404f9a8c43fd09c6062e" style="width: 100.0%; height: 100.0%;"> - City: CUIABA<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_c5c8c2dbb64141ba93cf8a6117a92188.setContent(html_eece0790e90f404f9a8c43fd09c6062e);
+            var html_c65dcfa94f8e4c55bf1a88e89749664e = $(`<div id="html_c65dcfa94f8e4c55bf1a88e89749664e" style="width: 100.0%; height: 100.0%;"> - City: CUIABA<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_a40bceb5fef34246b61d6aad2d4465be.setContent(html_c65dcfa94f8e4c55bf1a88e89749664e);
         
 
-        circle_marker_116b7913c9d948ae819b853e51733e8f.bindPopup(popup_c5c8c2dbb64141ba93cf8a6117a92188)
+        circle_marker_d2997d2e25e34b28813568fd4143dfeb.bindPopup(popup_a40bceb5fef34246b61d6aad2d4465be)
         ;
 
         
     
     
-            var circle_marker_3aa0a0475b674c93b1af1cc5cd675046 = L.circleMarker(
+            var circle_marker_8f6c0f871a14479d963ae67f1efe77ec = L.circleMarker(
                 [-9.62, -36.82],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_b14a3dbccc0841278758e9fb79212937 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_5ecba152ddb0473eb7dfce3381938cd4 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_400926516f174988baf65d9992431474 = $(`<div id="html_400926516f174988baf65d9992431474" style="width: 100.0%; height: 100.0%;"> - City: MACEIO<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_b14a3dbccc0841278758e9fb79212937.setContent(html_400926516f174988baf65d9992431474);
+            var html_2221610626f34971ace94b25e923113d = $(`<div id="html_2221610626f34971ace94b25e923113d" style="width: 100.0%; height: 100.0%;"> - City: MACEIO<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_5ecba152ddb0473eb7dfce3381938cd4.setContent(html_2221610626f34971ace94b25e923113d);
         
 
-        circle_marker_3aa0a0475b674c93b1af1cc5cd675046.bindPopup(popup_b14a3dbccc0841278758e9fb79212937)
+        circle_marker_8f6c0f871a14479d963ae67f1efe77ec.bindPopup(popup_5ecba152ddb0473eb7dfce3381938cd4)
         ;
 
         
     
     
-            var circle_marker_a508cf85bef744e7bce1411f9cd285d9 = L.circleMarker(
+            var circle_marker_ade8ff4dea6c4f9bb75b22337f445e05 = L.circleMarker(
                 [-19.19, -40.34],
                 {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_7a70e22a80f7405ab0c3f8c920f82fa5 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_32b35ba2237249bdb89843af4b6b0441 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_16516f01dc1944fdaedb9130aff854cc = $(`<div id="html_16516f01dc1944fdaedb9130aff854cc" style="width: 100.0%; height: 100.0%;"> - City: VITORIA<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
-            popup_7a70e22a80f7405ab0c3f8c920f82fa5.setContent(html_16516f01dc1944fdaedb9130aff854cc);
+            var html_d84785e7234641aebd3025bbb19d46df = $(`<div id="html_d84785e7234641aebd3025bbb19d46df" style="width: 100.0%; height: 100.0%;"> - City: VITORIA<br> - OODC legislation?: nan<br> - OODC implemented?: No</div>`)[0];
+            popup_32b35ba2237249bdb89843af4b6b0441.setContent(html_d84785e7234641aebd3025bbb19d46df);
         
 
-        circle_marker_a508cf85bef744e7bce1411f9cd285d9.bindPopup(popup_7a70e22a80f7405ab0c3f8c920f82fa5)
+        circle_marker_ade8ff4dea6c4f9bb75b22337f445e05.bindPopup(popup_32b35ba2237249bdb89843af4b6b0441)
         ;
 
         
     
     
-            var circle_marker_01919191227948cabb23615af8938093 = L.circleMarker(
+            var circle_marker_b7c15e1244c64570b96052059ed5dbb1 = L.circleMarker(
                 [-3.79, -52.48],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_f3d953a84da74bdaae9f0ed5f98c5cb6 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_07b499826ada406db40e94436538aa99 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_d8cebb506d7f4816b04ce5a2bf50b0db = $(`<div id="html_d8cebb506d7f4816b04ce5a2bf50b0db" style="width: 100.0%; height: 100.0%;"> - City: BELEM<br> - OODC legislation?: 2008.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_f3d953a84da74bdaae9f0ed5f98c5cb6.setContent(html_d8cebb506d7f4816b04ce5a2bf50b0db);
+            var html_3bb5d9e97f054ead8cc1aca169643e2a = $(`<div id="html_3bb5d9e97f054ead8cc1aca169643e2a" style="width: 100.0%; height: 100.0%;"> - City: BELEM<br> - OODC legislation?: 2008.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_07b499826ada406db40e94436538aa99.setContent(html_3bb5d9e97f054ead8cc1aca169643e2a);
         
 
-        circle_marker_01919191227948cabb23615af8938093.bindPopup(popup_f3d953a84da74bdaae9f0ed5f98c5cb6)
+        circle_marker_b7c15e1244c64570b96052059ed5dbb1.bindPopup(popup_07b499826ada406db40e94436538aa99)
         ;
 
         
     
     
-            var circle_marker_ff68c6ddfb314e82869d92d064c4ff4e = L.circleMarker(
+            var circle_marker_b2236bec1b514801a1ec2e47b85c163e = L.circleMarker(
                 [-5.2, -39.53],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_eb8f30c7b1474411bfc5c076768bac5e = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_d29b0326528545aab23fbc1ed14aef75 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_abb09433f9084a85aa52a17f9bde9507 = $(`<div id="html_abb09433f9084a85aa52a17f9bde9507" style="width: 100.0%; height: 100.0%;"> - City: FORTALEZA<br> - OODC legislation?: 2009.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_eb8f30c7b1474411bfc5c076768bac5e.setContent(html_abb09433f9084a85aa52a17f9bde9507);
+            var html_1a36885154c14ecb91b701d2e263e5af = $(`<div id="html_1a36885154c14ecb91b701d2e263e5af" style="width: 100.0%; height: 100.0%;"> - City: FORTALEZA<br> - OODC legislation?: 2009.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_d29b0326528545aab23fbc1ed14aef75.setContent(html_1a36885154c14ecb91b701d2e263e5af);
         
 
-        circle_marker_ff68c6ddfb314e82869d92d064c4ff4e.bindPopup(popup_eb8f30c7b1474411bfc5c076768bac5e)
+        circle_marker_b2236bec1b514801a1ec2e47b85c163e.bindPopup(popup_d29b0326528545aab23fbc1ed14aef75)
         ;
 
         
     
     
-            var circle_marker_14f79372a64449c587e3d9ca2a78ad5e = L.circleMarker(
+            var circle_marker_25bc6c2e41bf46ce844bbdedcce89376 = L.circleMarker(
                 [-7.28, -36.72],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_a46b0b0ca43d4359925a71357af354b8 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_c968540d5188435580524e1ebdfa3fba = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_ba68d8a12ab3478aa3dd029f18ee5bd3 = $(`<div id="html_ba68d8a12ab3478aa3dd029f18ee5bd3" style="width: 100.0%; height: 100.0%;"> - City: JOAO PESSOA<br> - OODC legislation?: 2011.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_a46b0b0ca43d4359925a71357af354b8.setContent(html_ba68d8a12ab3478aa3dd029f18ee5bd3);
+            var html_f57e444ed1ef4bcd84f354948f9e88f5 = $(`<div id="html_f57e444ed1ef4bcd84f354948f9e88f5" style="width: 100.0%; height: 100.0%;"> - City: JOAO PESSOA<br> - OODC legislation?: 2011.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_c968540d5188435580524e1ebdfa3fba.setContent(html_f57e444ed1ef4bcd84f354948f9e88f5);
         
 
-        circle_marker_14f79372a64449c587e3d9ca2a78ad5e.bindPopup(popup_a46b0b0ca43d4359925a71357af354b8)
+        circle_marker_25bc6c2e41bf46ce844bbdedcce89376.bindPopup(popup_c968540d5188435580524e1ebdfa3fba)
         ;
 
         
     
     
-            var circle_marker_b2b2bc0770f64028a42c3a230b113dcc = L.circleMarker(
+            var circle_marker_1b3c96c1b9d64a849d846d621029a73e = L.circleMarker(
                 [-5.81, -36.59],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_cebdcffae07b452b92396fcf54720f52 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_bfb79021f81b4d8e80da4bd66e85f91b = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_7064229b5c9044fb84279be8fdd5030c = $(`<div id="html_7064229b5c9044fb84279be8fdd5030c" style="width: 100.0%; height: 100.0%;"> - City: NATAL<br> - OODC legislation?: 2022.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_cebdcffae07b452b92396fcf54720f52.setContent(html_7064229b5c9044fb84279be8fdd5030c);
+            var html_65b57b52d96243a2b21dd7d0a82ba5e4 = $(`<div id="html_65b57b52d96243a2b21dd7d0a82ba5e4" style="width: 100.0%; height: 100.0%;"> - City: NATAL<br> - OODC legislation?: 2022.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_bfb79021f81b4d8e80da4bd66e85f91b.setContent(html_65b57b52d96243a2b21dd7d0a82ba5e4);
         
 
-        circle_marker_b2b2bc0770f64028a42c3a230b113dcc.bindPopup(popup_cebdcffae07b452b92396fcf54720f52)
+        circle_marker_1b3c96c1b9d64a849d846d621029a73e.bindPopup(popup_bfb79021f81b4d8e80da4bd66e85f91b)
         ;
 
         
     
     
-            var circle_marker_07e66d86199f4605926f767867444e50 = L.circleMarker(
+            var circle_marker_c28f1e3a01694294b7a94f123d709147 = L.circleMarker(
                 [-22.25, -42.66],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_70f09d2992584255b019da61d931fb2e = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_efbcaac9e7db41e79c81d5572b0797f8 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_1215e9272f964326be86ca8fa095c415 = $(`<div id="html_1215e9272f964326be86ca8fa095c415" style="width: 100.0%; height: 100.0%;"> - City: RIO DE JANEIRO<br> - OODC legislation?: 2011.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_70f09d2992584255b019da61d931fb2e.setContent(html_1215e9272f964326be86ca8fa095c415);
+            var html_68167f89cff644b6b1228ccee3cb4240 = $(`<div id="html_68167f89cff644b6b1228ccee3cb4240" style="width: 100.0%; height: 100.0%;"> - City: RIO DE JANEIRO<br> - OODC legislation?: 2011.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_efbcaac9e7db41e79c81d5572b0797f8.setContent(html_68167f89cff644b6b1228ccee3cb4240);
         
 
-        circle_marker_07e66d86199f4605926f767867444e50.bindPopup(popup_70f09d2992584255b019da61d931fb2e)
+        circle_marker_c28f1e3a01694294b7a94f123d709147.bindPopup(popup_efbcaac9e7db41e79c81d5572b0797f8)
         ;
 
         
     
     
-            var circle_marker_76d34d7c3b6544d8b538c9db932206e9 = L.circleMarker(
+            var circle_marker_6cddc04ec635497697f645a12d74604a = L.circleMarker(
                 [-13.29, -41.71],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_3f67465f3b644cd7a289b51dd1c3666e = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_2eb2151e61aa47dc87ff573b25de4bb2 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_7daf6138be3a4f2eaa97d0052e831c30 = $(`<div id="html_7daf6138be3a4f2eaa97d0052e831c30" style="width: 100.0%; height: 100.0%;"> - City: SALVADOR<br> - OODC legislation?: 2015.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_3f67465f3b644cd7a289b51dd1c3666e.setContent(html_7daf6138be3a4f2eaa97d0052e831c30);
+            var html_d88d853eee2d4bd09af0266ea0d4155d = $(`<div id="html_d88d853eee2d4bd09af0266ea0d4155d" style="width: 100.0%; height: 100.0%;"> - City: SALVADOR<br> - OODC legislation?: 2015.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_2eb2151e61aa47dc87ff573b25de4bb2.setContent(html_d88d853eee2d4bd09af0266ea0d4155d);
         
 
-        circle_marker_76d34d7c3b6544d8b538c9db932206e9.bindPopup(popup_3f67465f3b644cd7a289b51dd1c3666e)
+        circle_marker_6cddc04ec635497697f645a12d74604a.bindPopup(popup_2eb2151e61aa47dc87ff573b25de4bb2)
         ;
 
         
     
     
-            var circle_marker_ade91d96a5ba47c589a8db47f2ae40b1 = L.circleMarker(
+            var circle_marker_190404a8fa7247928c770270bae4367d = L.circleMarker(
                 [-6.6, -42.28],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_c46e594ed01c4fea831fa140a0b7afb6 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_ca4a30d760f94c658ee526099fdd6f93 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_fdb146434a1742bab3d6d7cbddbc42a3 = $(`<div id="html_fdb146434a1742bab3d6d7cbddbc42a3" style="width: 100.0%; height: 100.0%;"> - City: TERESINA<br> - OODC legislation?: 2019.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_c46e594ed01c4fea831fa140a0b7afb6.setContent(html_fdb146434a1742bab3d6d7cbddbc42a3);
+            var html_924f86e390624f1b9339b885dab9d550 = $(`<div id="html_924f86e390624f1b9339b885dab9d550" style="width: 100.0%; height: 100.0%;"> - City: TERESINA<br> - OODC legislation?: 2019.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_ca4a30d760f94c658ee526099fdd6f93.setContent(html_924f86e390624f1b9339b885dab9d550);
         
 
-        circle_marker_ade91d96a5ba47c589a8db47f2ae40b1.bindPopup(popup_c46e594ed01c4fea831fa140a0b7afb6)
+        circle_marker_190404a8fa7247928c770270bae4367d.bindPopup(popup_ca4a30d760f94c658ee526099fdd6f93)
         ;
 
         
     
     
-            var circle_marker_99ac00659fe24c4bb219b92a41fd3f35 = L.circleMarker(
+            var circle_marker_b77e57c6db2f4ae69c28123af1e40d96 = L.circleMarker(
                 [-15.83, -47.86],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_ad78bb5266fe4428921c95eea6ead8a1 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_e469686a085c4f90acebdb6b759eb627 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_0ed11b5e5c42467c9428598a400390c6 = $(`<div id="html_0ed11b5e5c42467c9428598a400390c6" style="width: 100.0%; height: 100.0%;"> - City: BRASILIA<br> - OODC legislation?: 1996.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_ad78bb5266fe4428921c95eea6ead8a1.setContent(html_0ed11b5e5c42467c9428598a400390c6);
+            var html_9fccb9434abf445f98e6b05131864915 = $(`<div id="html_9fccb9434abf445f98e6b05131864915" style="width: 100.0%; height: 100.0%;"> - City: BRASILIA<br> - OODC legislation?: 1996.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_e469686a085c4f90acebdb6b759eb627.setContent(html_9fccb9434abf445f98e6b05131864915);
         
 
-        circle_marker_99ac00659fe24c4bb219b92a41fd3f35.bindPopup(popup_ad78bb5266fe4428921c95eea6ead8a1)
+        circle_marker_b77e57c6db2f4ae69c28123af1e40d96.bindPopup(popup_e469686a085c4f90acebdb6b759eb627)
         ;
 
         
     
     
-            var circle_marker_7f4929bceeaa4e8b9797e5179e9fc308 = L.circleMarker(
+            var circle_marker_5b926868d23a471288d7dce09a21c009 = L.circleMarker(
                 [-24.89, -51.55],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_daa883df1f39421b873ec2355c7eaf1a = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_4f57fdf17c3d435e8ecead9f0ffd7189 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_ff2705cc44de4fc4bbb15554cdfb382d = $(`<div id="html_ff2705cc44de4fc4bbb15554cdfb382d" style="width: 100.0%; height: 100.0%;"> - City: CURITIBA<br> - OODC legislation?: 2020.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_daa883df1f39421b873ec2355c7eaf1a.setContent(html_ff2705cc44de4fc4bbb15554cdfb382d);
+            var html_51cc747eb27c4028b9d0c878f832a659 = $(`<div id="html_51cc747eb27c4028b9d0c878f832a659" style="width: 100.0%; height: 100.0%;"> - City: CURITIBA<br> - OODC legislation?: 2020.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_4f57fdf17c3d435e8ecead9f0ffd7189.setContent(html_51cc747eb27c4028b9d0c878f832a659);
         
 
-        circle_marker_7f4929bceeaa4e8b9797e5179e9fc308.bindPopup(popup_daa883df1f39421b873ec2355c7eaf1a)
+        circle_marker_5b926868d23a471288d7dce09a21c009.bindPopup(popup_4f57fdf17c3d435e8ecead9f0ffd7189)
         ;
 
         
     
     
-            var circle_marker_9b55a657cee54275b0f48dda4bfe8612 = L.circleMarker(
+            var circle_marker_d45a64ebf5304b2cac3f23cc45e11899 = L.circleMarker(
                 [-27.45, -50.95],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_f0f24868daaa42bc8cbf4aff5bd47434 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_ef0b9610adf945c697f6c8b0480a117e = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_52e3f3b96fcf48e5bfb0dca380ddd683 = $(`<div id="html_52e3f3b96fcf48e5bfb0dca380ddd683" style="width: 100.0%; height: 100.0%;"> - City: FLORIANOPOLIS<br> - OODC legislation?: 2014.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_f0f24868daaa42bc8cbf4aff5bd47434.setContent(html_52e3f3b96fcf48e5bfb0dca380ddd683);
+            var html_d2dee7d6f8f64ef2a8f53b0e4a96de2b = $(`<div id="html_d2dee7d6f8f64ef2a8f53b0e4a96de2b" style="width: 100.0%; height: 100.0%;"> - City: FLORIANOPOLIS<br> - OODC legislation?: 2014.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_ef0b9610adf945c697f6c8b0480a117e.setContent(html_d2dee7d6f8f64ef2a8f53b0e4a96de2b);
         
 
-        circle_marker_9b55a657cee54275b0f48dda4bfe8612.bindPopup(popup_f0f24868daaa42bc8cbf4aff5bd47434)
+        circle_marker_d45a64ebf5304b2cac3f23cc45e11899.bindPopup(popup_ef0b9610adf945c697f6c8b0480a117e)
         ;
 
         
     
     
-            var circle_marker_895a28d7bf08407a885086c35f5c8b80 = L.circleMarker(
+            var circle_marker_711ddb74e3614ea88e7ff143ec74f1e8 = L.circleMarker(
                 [-15.98, -49.86],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_5702961406fc4dbbb1469e710e3b9613 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_0f0cf5f8bd26407a8eb6579ea72e9dcc = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_db5ea2a896ad4c6b97b29fd8403903cd = $(`<div id="html_db5ea2a896ad4c6b97b29fd8403903cd" style="width: 100.0%; height: 100.0%;"> - City: GOIANIA<br> - OODC legislation?: 2008.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_5702961406fc4dbbb1469e710e3b9613.setContent(html_db5ea2a896ad4c6b97b29fd8403903cd);
+            var html_4cf14dac0ca943dabbd4ce3dcbedeea8 = $(`<div id="html_4cf14dac0ca943dabbd4ce3dcbedeea8" style="width: 100.0%; height: 100.0%;"> - City: GOIANIA<br> - OODC legislation?: 2008.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_0f0cf5f8bd26407a8eb6579ea72e9dcc.setContent(html_4cf14dac0ca943dabbd4ce3dcbedeea8);
         
 
-        circle_marker_895a28d7bf08407a885086c35f5c8b80.bindPopup(popup_5702961406fc4dbbb1469e710e3b9613)
+        circle_marker_711ddb74e3614ea88e7ff143ec74f1e8.bindPopup(popup_0f0cf5f8bd26407a8eb6579ea72e9dcc)
         ;
 
         
     
     
-            var circle_marker_27e64c61cd234eada88733664030fe83 = L.circleMarker(
+            var circle_marker_4d089f3f1b8a4d1681886ca9fd5b7367 = L.circleMarker(
                 [-3.47, -65.1],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_a630ff92e8ae4d4a8311deeb99e5f753 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_96152fd566a744569762039bd2202f3e = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_e5eafc0312ca4abdbfa01babe422c78b = $(`<div id="html_e5eafc0312ca4abdbfa01babe422c78b" style="width: 100.0%; height: 100.0%;"> - City: MANAUS<br> - OODC legislation?: 2014.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_a630ff92e8ae4d4a8311deeb99e5f753.setContent(html_e5eafc0312ca4abdbfa01babe422c78b);
+            var html_20c5bdab823e4ea893117cb067ede8b0 = $(`<div id="html_20c5bdab823e4ea893117cb067ede8b0" style="width: 100.0%; height: 100.0%;"> - City: MANAUS<br> - OODC legislation?: 2014.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_96152fd566a744569762039bd2202f3e.setContent(html_20c5bdab823e4ea893117cb067ede8b0);
         
 
-        circle_marker_27e64c61cd234eada88733664030fe83.bindPopup(popup_a630ff92e8ae4d4a8311deeb99e5f753)
+        circle_marker_4d089f3f1b8a4d1681886ca9fd5b7367.bindPopup(popup_96152fd566a744569762039bd2202f3e)
         ;
 
         
     
     
-            var circle_marker_1b31ae2106334a439103f971abff8c5c = L.circleMarker(
+            var circle_marker_231a11e54af9427e89d3c27c58040908 = L.circleMarker(
                 [-9.46, -48.26],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_164b313398fe40e2a1983b93a3173cd3 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_27b69311d9b24133a148d80ce1188a98 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_e694b622e2f64d9dbffde03c68881cce = $(`<div id="html_e694b622e2f64d9dbffde03c68881cce" style="width: 100.0%; height: 100.0%;"> - City: PALMAS<br> - OODC legislation?: 2012.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_164b313398fe40e2a1983b93a3173cd3.setContent(html_e694b622e2f64d9dbffde03c68881cce);
+            var html_f491209106cf466abf4c4bacaaa36249 = $(`<div id="html_f491209106cf466abf4c4bacaaa36249" style="width: 100.0%; height: 100.0%;"> - City: PALMAS<br> - OODC legislation?: 2012.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_27b69311d9b24133a148d80ce1188a98.setContent(html_f491209106cf466abf4c4bacaaa36249);
         
 
-        circle_marker_1b31ae2106334a439103f971abff8c5c.bindPopup(popup_164b313398fe40e2a1983b93a3173cd3)
+        circle_marker_231a11e54af9427e89d3c27c58040908.bindPopup(popup_27b69311d9b24133a148d80ce1188a98)
         ;
 
         
     
     
-            var circle_marker_dfb26ec50526476aafc245dcaf57e24d = L.circleMarker(
+            var circle_marker_6647bffae7384f9ca79ef26545b218de = L.circleMarker(
                 [-30.17, -53.5],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_128b131281b84773a5886aa8e0f3b782 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_8bffb15c4fb24ab5a405a00514aadfad = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_cba9ac11a8164dc287e84ab08d6478be = $(`<div id="html_cba9ac11a8164dc287e84ab08d6478be" style="width: 100.0%; height: 100.0%;"> - City: PORTO ALEGRE<br> - OODC legislation?: 1994.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_128b131281b84773a5886aa8e0f3b782.setContent(html_cba9ac11a8164dc287e84ab08d6478be);
+            var html_e4a8e6f2c4584b799ef04b8e582a668b = $(`<div id="html_e4a8e6f2c4584b799ef04b8e582a668b" style="width: 100.0%; height: 100.0%;"> - City: PORTO ALEGRE<br> - OODC legislation?: 1994.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_8bffb15c4fb24ab5a405a00514aadfad.setContent(html_e4a8e6f2c4584b799ef04b8e582a668b);
         
 
-        circle_marker_dfb26ec50526476aafc245dcaf57e24d.bindPopup(popup_128b131281b84773a5886aa8e0f3b782)
+        circle_marker_6647bffae7384f9ca79ef26545b218de.bindPopup(popup_8bffb15c4fb24ab5a405a00514aadfad)
         ;
 
         
     
     
-            var circle_marker_95d51d56109f4f7396680d13fa4e6948 = L.circleMarker(
+            var circle_marker_861ef17bd6ff4d9980d7ff12d61850ea = L.circleMarker(
                 [-10.83, -63.34],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_37038e8378834af0b29ae5090ad4c181 = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_7e8626ac5ead443f9759707fb3377104 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_04137db7af3c43c3bd2adb4f022433f9 = $(`<div id="html_04137db7af3c43c3bd2adb4f022433f9" style="width: 100.0%; height: 100.0%;"> - City: PORTO VELHO<br> - OODC legislation?: 2010.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_37038e8378834af0b29ae5090ad4c181.setContent(html_04137db7af3c43c3bd2adb4f022433f9);
+            var html_806887aa852647f793c791a225fc4d51 = $(`<div id="html_806887aa852647f793c791a225fc4d51" style="width: 100.0%; height: 100.0%;"> - City: PORTO VELHO<br> - OODC legislation?: 2010.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_7e8626ac5ead443f9759707fb3377104.setContent(html_806887aa852647f793c791a225fc4d51);
         
 
-        circle_marker_95d51d56109f4f7396680d13fa4e6948.bindPopup(popup_37038e8378834af0b29ae5090ad4c181)
+        circle_marker_861ef17bd6ff4d9980d7ff12d61850ea.bindPopup(popup_7e8626ac5ead443f9759707fb3377104)
         ;
 
         
     
     
-            var circle_marker_da2fe5fe668d4ac2a3d8d8c6c8cddf29 = L.circleMarker(
+            var circle_marker_4d6e3f69f0db4f22b5f0ec1c818a64de = L.circleMarker(
                 [-22.19, -48.79],
                 {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
-            ).addTo(map_7b9002182da74dfa84a2c3e4259edad5);
+            ).addTo(map_637b5a6073704179b775280f2a29f2be);
         
     
-        var popup_cdd38bd968ab4669a2512ee55d2a7b9b = L.popup({"maxWidth": 300, "minWidth": 100});
+        var popup_642e3395fc5c45a8a1e253d19d4cb7e6 = L.popup({"maxWidth": 300, "minWidth": 100});
 
         
-            var html_9be50f7badc34b56888f75051cb38195 = $(`<div id="html_9be50f7badc34b56888f75051cb38195" style="width: 100.0%; height: 100.0%;"> - City: SAO PAULO<br> - OODC legislation?: 2003.0<br> - OODC implemented?: Yes</div>`)[0];
-            popup_cdd38bd968ab4669a2512ee55d2a7b9b.setContent(html_9be50f7badc34b56888f75051cb38195);
+            var html_c3f8957ca9614e03b8b79b0735b1597a = $(`<div id="html_c3f8957ca9614e03b8b79b0735b1597a" style="width: 100.0%; height: 100.0%;"> - City: SAO PAULO<br> - OODC legislation?: 2003.0<br> - OODC implemented?: Yes</div>`)[0];
+            popup_642e3395fc5c45a8a1e253d19d4cb7e6.setContent(html_c3f8957ca9614e03b8b79b0735b1597a);
         
 
-        circle_marker_da2fe5fe668d4ac2a3d8d8c6c8cddf29.bindPopup(popup_cdd38bd968ab4669a2512ee55d2a7b9b)
+        circle_marker_4d6e3f69f0db4f22b5f0ec1c818a64de.bindPopup(popup_642e3395fc5c45a8a1e253d19d4cb7e6)
         ;
 
         
     
 </script>
-
-Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
-
 
 
 <br>
@@ -653,9 +652,8 @@ A closer look at the breakdown of OODC spending according to district type, show
 
 <br>
 ### OODC SPENDING: HOUSING
-Include analysis of the two graph below.hbsfkjbskgbbglsdnglskng;n;kgen
-dknfgnglrglberg
-TO DO: INTERACTIVE MAP SP
+Write something
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 
 
