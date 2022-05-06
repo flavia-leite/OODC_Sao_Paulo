@@ -8,10 +8,8 @@ The **Outorga Onerosa do Direito de Construir (OODC)** - or the onerous grant of
 
 Although regulated at the national level in 2001, the OODC is still a poorly disseminated instrument among Brazilian cities. Currently, only 40% of the more than 5 thousand Brazilian municipalities have a specific legislation concerning the use of the OODC(IBGE, 2018). The map below shows the status of the OODC use in Brazil's 26 State capitals and the Federal District (Brazília). Out of the 27 cities, 20 have specific legislation codifying the implementation of the OODC, but only 16 of them implement the instrument.
 
-<?php
-    header('X-Frame-Options: GOFORIT'); 
-?>
-<iframe style="width: 500px; height: 130px; border: 0px" src="https://github.com/flavia-leite/OODC_Sao_Paulo/blob/a461c9ec0d9099a2a0e25f03034a36ad0a6c6144/m.html" > </iframe>
+<script type="module" src="https://unpkg.com/x-frame-bypass"></script>
+<iframe is="x-frame-bypass" style="width: 500px; height: 400px; border: 0px" src="https://github.com/flavia-leite/OODC_Sao_Paulo/blob/a461c9ec0d9099a2a0e25f03034a36ad0a6c6144/m.html" > </iframe>
 Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
 
 
