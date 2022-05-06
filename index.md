@@ -10,7 +10,6 @@ Although regulated at the national level in 2001, the OODC is still a poorly dis
 
 
 Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <!DOCTYPE html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
