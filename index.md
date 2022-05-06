@@ -1,16 +1,17 @@
-# Is the OODC achieving its geographic redistributive purposes?
+# The OODC and its "Robin Hood” approach to city building
 by Flávia Leite
 
 
 ### INTRODUCTION
-The **Outorga Onerosa do Direito de Construir (OODC)** - or the onerous grant of the right to build - is one of Brazil's main instruments of  municipal urban planning. The OODC was brought in by the 2001 Statute of the City (Estatuto da Cidade), the national law regulating the Brazilian Constitution’s articles on urban policy.The OODC regulates the payment by Developers of additional building rights. The resources generated with the OODC in each city are deposited into a reserve fund used to provide urban improvements of social interest across the municipality.
+The **Outorga Onerosa do Direito de Construir (OODC)** - or the onerous grant of the right to build - is one of Brazil's main instruments of  municipal urban planning. The OODC was brought in by the 2001 Statute of the City (Estatuto da Cidade), the national law regulating the Brazilian Constitution’s articles on urban policy.The OODC regulates the payment by Developers of additional building rights. 
 
+The resources generated with the OODC in each city are deposited into a reserve fund used to provide urban improvements of social interest across the municipality. The OODC's basic principle is that funds captured in the most expensive regions of a municiplaity should be redistributed to other parts of the city, benefiting the common interest. This “Robin Hood” approach to city building was conceived by the Statute, which is profoundly driven by equity principles. 
 
 Although regulated at the national level in 2001, the OODC is still a poorly disseminated instrument among Brazilian cities. Currently, only 40% of the more than 5 thousand Brazilian municipalities have a specific legislation concerning the use of the OODC(IBGE, 2018). The map below shows the status of the OODC use in Brazil's 26 State capitals and the Federal District (Brazília). Out of the 27 cities, 20 have specific legislation codifying the implementation of the OODC, but **only 16 of them implement the instrument**.
 
 <script type="module" src="https://unpkg.com/x-frame-bypass"></script>
 <iframe is="x-frame-bypass" style="width: 500px; height: 400px; border: 0px" src="https://github.com/flavia-leite/OODC_Sao_Paulo/blob/a461c9ec0d9099a2a0e25f03034a36ad0a6c6144/m.html" > </iframe>
-[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/97998623/167173824-c91b44ce-b1ea-4682-9624-f90561c91864.png" />](https://nbviewer.org/github/flavia-leite/OODC_Sao_Paulo/blob/167feab6c640857ba95ff8b6a8c1c5e1c623cb9b/map_capitais.ipynb)
+[<img alt="alt_text" width="500" src="https://user-images.githubusercontent.com/97998623/167173824-c91b44ce-b1ea-4682-9624-f90561c91864.png" />](https://nbviewer.org/github/flavia-leite/OODC_Sao_Paulo/blob/167feab6c640857ba95ff8b6a8c1c5e1c623cb9b/map_capitais.ipynb)
 Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
 
 
@@ -99,9 +100,8 @@ Providing an even more detailed look at the OODC spending, we can see how FUNDUR
 
 <br>
 ### CONCLUSION
-In line with the rationale that the community benefits in São Paulo are located throughout the city such that the entire city gains from the benefits of the urbanization process. Indeed, FUNDURB resources were prioritized in the periphery of the city (Nobre 2016). As a recent blog post notes, “the prefeitura not only broadens the amount of resources to invest in the city, but also allows a better spatial distribution of infrastructure investments” (Santoro et al. 2016). In a general sense, the application of OODC and the use of FUNDURB have captured funds in the most expensive regions of the city, and applied those funds in the poorest regions in a “Robin Hood” approach to city building.
-Answer to our questions:
 
+The brief analysis tried to show whether the OODC managed to accomplish its central goal of trading development rights for community benefits. Overall, the OODC managed to capture funds in the richest districts and apply them in the poorest areas of the city, accomplishing its “Robin Hood” objectives. In terms of spending, most of it was concetrated in peripheral districts and in the historic city center, areas that have a strong need for public investment. It is worth noting that ODDC spending was very unequal within low-income districts. The amount spent on some low-income district between 2013 and 20202 was still very low , many of those district received less than R$20million ($4 million), an amount insuficient to bring meaningful urban investments. Still, the analysis above shows that, even in these cases, low-income districts in general obtained more OODC spending than what they generated, and vice-versa. Finally, the OODC spending focus on housing and transportation shows that the instrument is being implemented in line with its overarching principles
 
 
 <br>
