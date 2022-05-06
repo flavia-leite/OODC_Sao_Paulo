@@ -85,7 +85,7 @@ The pie chart below shows the breakdown of OODC spending by type of project fund
 
 A closer look at the breakdown of OODC spending according to district type, shows a more heterogenous picture. Spending on Central districts, areas with virtually no parks an deteriorated housing stock, was concentrated on green spaces (36%) and social housing (39%). Similarly, in low-income districts, where OODC spending was directed to housing (47%), transportation (27%) and Water and sanitation projecs (19%).In upper-middle class districts, on the other hand, more than half of spending was allocated to transportation projects. 
 
-<img height="400" alt="image" src="https://user-images.githubusercontent.com/97998623/167072928-be040e21-0de5-4dcb-b514-ee32d02c88a9.jpg">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/97998623/167072928-be040e21-0de5-4dcb-b514-ee32d02c88a9.jpg">
 
 <br>
 ### OODC SPENDING: HOUSING
