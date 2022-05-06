@@ -24,7 +24,7 @@ The OODC was established in São Paulo in 2002 by the city’s Strategic Master 
 Source: [Gestão Urbana](https://gestaourbana.prefeitura.sp.gov.br/) 
 
 <br>
-_Revenue_:
+*_Revenue_:
 
 The two charts below show  OODC revenues and spending over the years. Due to limited data availability, the charts present figures only from 2013 to 2020. During this time period **R$ 2.8 billion ($0.6 billion) were raised by the OODC**. Between 2019 and 2020, lower interest rates impacted positively the real estate market, boosting OODC revenues. Also, changes made to São Paulo's master plan in 2014, altered the standardized formula used to calculate the charge levied on developers via the ODDC, increasing revenue generation.
 
@@ -32,7 +32,7 @@ The two charts below show  OODC revenues and spending over the years. Due to lim
 
 
 
-_Spending_:
+*_Spending_:
 
 Between 2013 and 2020, **R$2.2billion ($0.44 billion) of OODC revenues were spent**. Of that amount 40% was paid out in the last two years. 
 As already mentioned, OODC funds are not a key municipal revenue source.  Still, this money can have important impacts depending on how they are allocated. For example, between 2013 and 2015, OODC revenues contributed to a 10% increase in the budget of the Subprefeituras Department, and a 7% growth in the Culture Department's budget,representing a significant revenue increase for this entities (Friendly, 2017).
@@ -44,9 +44,9 @@ As already mentioned, OODC funds are not a key municipal revenue source.  Still,
 <br>
 ### METHODOLOGY
 In São Paulo, OODC revenues have a **redistributive purpose**; revenues collected in the most developed parts of the city should be spent on the most vulnerable areas. Given this redistributive objective, my project aims to answer the following set of questions: 
-* Q1. Where are OODC revenues raised?
-* Q2. Have OODC revenues been spent in areas with higher demand for infrastructure?
-* Q3. What type of public projects were funded with OODC revenues? 
+1. Where are OODC revenues raised?
+2. Have OODC revenues been spent in areas with higher demand for infrastructure?
+3. What type of public projects were funded with OODC revenues? 
 
 To answer these questions, I explore some datasets available at:
 * [SP’s Master Plan monitoring webpage](https://monitoramentopde.gestaourbana.prefeitura.sp.gov.br/) 
@@ -58,14 +58,14 @@ To answer these questions, I explore some datasets available at:
 ### REVENUE AND SPENDING
 
 
-_Where were OODC revenues raised?_
+* _Where were OODC revenues raised?_
 
 The collection of OODC has not been homogeneous throughout the city. The map below shows, the percentage of population living in favelas in each city district, as well as real estate projects (red dots) that paid OODC between 2013 and 2020. Most of these projects are located in the **southweast part of the city**, where high-income households live and the real estate market concentrates its activities.
 
 <img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167071337-104a352b-c2d4-40f8-9c4d-35d99e9b367d.jpg">
 
 
-_Where were the OODC funds spent?_
+* _Where were the OODC funds spent?_
  
 Spending of OODC funds has not been uniform either. As the map below shows, between 2013 and 2020, spending was concentrated in the São Paulo's historic center and in some peripheral districts in the **South and East part of the city**, where low-income households are concentrated. Still, the amount spent in many poor districts was very low, ranging between $5million and $17million, corresponding to the amount spent on many high-income areas in the southweast region.
 
@@ -85,9 +85,9 @@ The pie chart below shows the breakdown of OODC spending by type of project fund
 
 A closer look at the breakdown of OODC spending according to district type, shows a more heterogenous picture. Spending on Central districts, areas with virtually no parks an deteriorated housing stock, was concentrated on green spaces (36%) and social housing (39%). Similarly, in low-income districts, where OODC spending was directed to housing (47%), transportation (27%) and Water and sanitation projecs (19%).In upper-middle class districts, on the other hand, more than half of spending was allocated to transportation projects. 
 
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/97998623/167072928-be040e21-0de5-4dcb-b514-ee32d02c88a9.jpg">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/97998623/167072928-be040e21-0de5-4dcb-b514-ee32d02c88a9.jpg">
 
-<br>
+
 ### OODC SPENDING: HOUSING
 Providing an even more detailed look at the OODC spending, we can see how FUNDURB revenues have been used to fund social housing-related investments. As described above, not all of this investment refer to housing projects, most of them are actually related to the acquisition of land to develop social housing, land tenure regularization and slum upgrading initiatives. The map below (_interactive map you can click on it!_) shows how these investments are spread troughout the city and what is the average income per household per census tracts (the smallest territorial unity for which data are available). The majority of social housing-related investments are on the east side of the city, the lowest income region of São Paulo, and on the southweast region, the highest income region were the municipality intends to bring more social housing and also where the largest favela of the city (Paraisópolis) is located.
 
