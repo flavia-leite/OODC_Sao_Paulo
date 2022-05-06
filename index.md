@@ -85,15 +85,14 @@ The pie chart below shows the breakdown of OODC spending by type of project fund
 
 A closer look at the breakdown of OODC spending according to district type, shows a more heterogenous picture. Spending on Central districts, areas with virtually no parks an deteriorated housing stock, was concentrated on green spaces (36%) and social housing (39%). Similarly, in low-income districts, where OODC spending was directed to housing (47%), transportation (27%) and Water and sanitation projecs (19%).In upper-middle class districts, on the other hand, more than half of spending was allocated to transportation projects. 
 
-<img height="400" alt="image" src="https://user-images.githubusercontent.com/97998623/167061300-4a9a763c-d7fd-4cbc-bd52-d8da0a20f808.jpg">
-
+<img height="400" alt="image" src="https://user-images.githubusercontent.com/97998623/167072928-be040e21-0de5-4dcb-b514-ee32d02c88a9.jpg">
 
 <br>
 ### OODC SPENDING: HOUSING
 Providing an even more detailed look at the OODC spending, we can see how FUNDURB revenues have been used to fund social housing-related investments. As described above, not all of this investment refer to housing projects, most of them are actually related to the acquisition of land to develop social housing, land tenure regularization and slum upgrading initiatives. The map below (_interactive map you can click on it!_) shows how these investments are spread troughout the city and what is the average income per household per census tracts (the smallest territorial unity for which data are available). The majority of social housing-related investments are on the east side of the city, the lowest income region of São Paulo, and on the southweast region, the highest income region were the municipality intends to bring more social housing and also where the largest favela of the city (Paraisópolis) is located.
 
 
-<img height="500" alt="image_sp_map" src="https://user-images.githubusercontent.com/97998623/167063299-a05e9478-93f0-4cdd-86ba-d330b2507f64.png">
+<img alt="image_sp_map" src="https://user-images.githubusercontent.com/97998623/167063299-a05e9478-93f0-4cdd-86ba-d330b2507f64.png">
 
 
 
