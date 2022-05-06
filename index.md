@@ -9,9 +9,9 @@ The resources generated with the OODC in each city are deposited into a reserve 
 
 Although regulated at the national level in 2001, the OODC is still a poorly disseminated instrument among Brazilian cities. Currently, only 40% of the more than 5 thousand Brazilian municipalities have a specific legislation concerning the use of the OODC(IBGE, 2018). The map below shows the status of the OODC use in Brazil's 26 State capitals and the Federal District (Brazília). Out of the 27 cities, 20 have specific legislation codifying the implementation of the OODC, but **only 16 of them implement the instrument**.
 
-<script type="module" src="https://unpkg.com/x-frame-bypass"></script>
-<iframe is="x-frame-bypass" style="width: 500px; height: 400px; border: 0px" src="https://github.com/flavia-leite/OODC_Sao_Paulo/blob/a461c9ec0d9099a2a0e25f03034a36ad0a6c6144/m.html" > </iframe>
 [<img alt="alt_text" width="500" src="https://user-images.githubusercontent.com/97998623/167173824-c91b44ce-b1ea-4682-9624-f90561c91864.png" />](https://nbviewer.org/github/flavia-leite/OODC_Sao_Paulo/blob/167feab6c640857ba95ff8b6a8c1c5e1c623cb9b/map_capitais.ipynb)
+<script type="module" src="https://unpkg.com/x-frame-bypass"></script>
+<iframe is="x-frame-bypass" style="width: 250; border: 0px" src="https://github.com/flavia-leite/OODC_Sao_Paulo/blob/a461c9ec0d9099a2a0e25f03034a36ad0a6c6144/m.html" > </iframe>
 Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
 
 
@@ -26,7 +26,7 @@ The OODC was established in São Paulo in 2002 by the city’s Strategic Master 
 Source: [Gestão Urbana](https://gestaourbana.prefeitura.sp.gov.br/) 
 
 <br>
-*_Revenue_:
+REVENUE:
 
 The two charts below show  OODC revenues and spending over the years. Due to limited data availability, the charts present figures only from 2013 to 2020. During this time period **R$ 2.8 billion ($0.6 billion) were raised by the OODC**. Between 2019 and 2020, lower interest rates impacted positively the real estate market, boosting OODC revenues. Also, changes made to São Paulo's master plan in 2014, altered the standardized formula used to calculate the charge levied on developers via the ODDC, increasing revenue generation.
 
@@ -34,7 +34,7 @@ The two charts below show  OODC revenues and spending over the years. Due to lim
 
 
 
-*_Spending_:
+SPENDING:
 
 Between 2013 and 2020, **R$2.2billion ($0.44 billion) of OODC revenues were spent**. Of that amount 40% was paid out in the last two years. 
 As already mentioned, OODC funds are not a key municipal revenue source.  Still, this money can have important impacts depending on how they are allocated. For example, between 2013 and 2015, OODC revenues contributed to a 10% increase in the budget of the Subprefeituras Department, and a 7% growth in the Culture Department's budget,representing a significant revenue increase for this entities (Friendly, 2017).
@@ -60,14 +60,15 @@ To answer these questions, I explore some datasets available at:
 ### REVENUE AND SPENDING
 
 
-* _Where were OODC revenues raised?_
+_WHERE WERE OODC REVENUES RAISED_
 
 The collection of OODC has not been homogeneous throughout the city. The map below shows, the percentage of population living in favelas in each city district, as well as real estate projects (red dots) that paid OODC between 2013 and 2020. Most of these projects are located in the **southweast part of the city**, where high-income households live and the real estate market concentrates its activities.
 
 <img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167071337-104a352b-c2d4-40f8-9c4d-35d99e9b367d.jpg">
 
 
-* _Where were the OODC funds spent?_
+
+_WHERE WERE OODC FUNDS SPENT?_
  
 Spending of OODC funds has not been uniform either. As the map below shows, between 2013 and 2020, spending was concentrated in the São Paulo's historic center and in some peripheral districts in the **South and East part of the city**, where low-income households are concentrated. Still, the amount spent in many poor districts was very low, ranging between $5million and $17million, corresponding to the amount spent on many high-income areas in the southweast region.
 
@@ -93,8 +94,7 @@ A closer look at the breakdown of OODC spending according to district type, show
 ### OODC SPENDING: HOUSING
 Providing an even more detailed look at the OODC spending, we can see how FUNDURB revenues have been used to fund social housing-related investments. As described above, not all of this investment refer to housing projects, most of them are actually related to the acquisition of land to develop social housing, land tenure regularization and slum upgrading initiatives. The map below (_interactive map you can click on it!_) shows how these investments are spread troughout the city and what is the average income per household per census tracts (the smallest territorial unity for which data are available). The majority of social housing-related investments are on the east side of the city, the lowest income region of São Paulo, and on the southweast region, the highest income region were the municipality intends to bring more social housing and also where the largest favela of the city (Paraisópolis) is located.
 
-
-<img alt="image_sp_map" src="https://user-images.githubusercontent.com/97998623/167063299-a05e9478-93f0-4cdd-86ba-d330b2507f64.png">
+[<img alt="alt_text" width="500" src="image_sp_map" src="https://user-images.githubusercontent.com/97998623/167063299-a05e9478-93f0-4cdd-86ba-d330b2507f64.png" />](https://github.com/flavia-leite/OODC_Sao_Paulo/blob/e776a049a338a19fd9a429efb3ce3d1cbc0dbd71/sp_map_housing.ipynb)
 
 
 
@@ -106,3 +106,13 @@ The brief analysis tried to show whether the OODC managed to accomplish its cent
 
 <br>
 ### REFERENCES
+
+Abigail Friendly, 2017. "Land Value Capture and Social Benefits: Toronto and São Paulo Compared," IMFG Papers 33, University of Toronto, Institute on Municipal Finance and Governance. 
+
+IBGE (Instituto Brasileiro de Geografia e Estatística). (2018). Pesquisa de  Informações  Básicas  Municipais. Rio de Janeiro: IBGE.
+
+Maleronka, C. and Furtado, F. 2013. "A Outorga Onerosa do Direito de Construir (OODC): A Experiência de São Paulo na Gestão Pública de Aproveitamentos Urbanísticos".Cambridge, MA: Lincoln Institute of Land Policy
+
+Santoro, P. F., Lopes, M. V., and Lemos, L. L. 2016. “Para Onde vão os Recursos do FUNDURB?” observaSP: Pelo Direito à Cidade na Política Urbana de São Paulo.https://observasp.wordpress.com/2016/07/28/para-onde-vao-os-recursos-do-fundurb/2016
+
+Prefeitura de Sao Paulo. (2020)."Monitoramento do PDE- Gestão Urbana". (https://monitoramentopde.gestaourbana.prefeitura.sp.gov.br/) 
