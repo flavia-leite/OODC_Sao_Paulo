@@ -80,7 +80,11 @@ A closer look at the breakdown of OODC spending according to district type, show
 
 <br>
 ### OODC SPENDING: HOUSING
-Write something
+Providing an even more detailed look at the OODC spending, we can see how FUNDURB revenues have been used to fund social housing-related investments. As described above, not all of this investment refer to housing projects, most of them are actually related to the acquisition of land to develop social housing, land tenure regularization and slum upgrading initiatives. The map below (_interactive map you can click on it!_) shows how these investments are spread troughout the city and what is the average income per household per census tracts (the smallest territorial unity for which data are available). The majority of social housing-related investments are on the east side of the city, the lowest income region of São Paulo, and on the southweast region, the highest income region were the municipality intends to bring more social housing and also where the largest favela of the city (Paraisópolis) is located.
+
+
+<img width="907" alt="image_sp_map" src="https://user-images.githubusercontent.com/97998623/167063299-a05e9478-93f0-4cdd-86ba-d330b2507f64.png">
+
 
 
 <br>
