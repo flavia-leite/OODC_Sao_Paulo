@@ -10,6 +10,7 @@ Although regulated at the national level in 2001, the OODC is still a poorly dis
 
 <script type="module" src="https://unpkg.com/x-frame-bypass"></script>
 <iframe is="x-frame-bypass" style="width: 500px; height: 400px; border: 0px" src="https://github.com/flavia-leite/OODC_Sao_Paulo/blob/a461c9ec0d9099a2a0e25f03034a36ad0a6c6144/m.html" > </iframe>
+[<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/97998623/167173824-c91b44ce-b1ea-4682-9624-f90561c91864.png" />](https://nbviewer.org/github/flavia-leite/OODC_Sao_Paulo/blob/167feab6c640857ba95ff8b6a8c1c5e1c623cb9b/map_capitais.ipynb)
 Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
 
 
