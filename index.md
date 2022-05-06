@@ -59,18 +59,18 @@ _Where were OODC revenues raised?_
 
 The collection of OODC has not been homogeneous throughout the city. The map below shows, the percentage of population living in favelas in each city district, as well as real estate projects (red dots) that paid OODC between 2013 and 2020. Most of these projects are located in the **southweast part of the city**, where high-income households live and the real estate market concentrates its activities.
 
-<img height="500" alt="image" class="center" src="https://user-images.githubusercontent.com/97998623/167060988-80e57e74-3206-44cb-98aa-800a58736cbb.jpg">
+<img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167060988-80e57e74-3206-44cb-98aa-800a58736cbb.jpg">
 
 
 _Where were the OODC funds spent?_
  
 Spending of OODC funds has not been uniform either. As the map below shows, between 2013 and 2020, spending was concentrated in the São Paulo's historic center and in some peripheral districts in the **South and East part of the city**, where low-income households are concentrated. Still, the amount spent in many poor districts was very low, ranging between $5million and $17million, corresponding to the amount spent on many high-income areas in the southweast region.
 
-<img height="500" class="center" alt="image" src="https://user-images.githubusercontent.com/97998623/167061032-77bc1b82-3d30-4622-8633-c2e2d24fafe9.jpg">
+<img height="500" align="middle" alt="image" src="https://user-images.githubusercontent.com/97998623/167061032-77bc1b82-3d30-4622-8633-c2e2d24fafe9.jpg">
 
 Another way of looking at the same question, is by observing the map below. This map shows the ratio of OODC spending to OODC revenues by District. A ratio higher than one means that a district receive more OODC spending than what it generated. Considering the OODC redistributive purposes, we expect to see **higher ratios in low-income districts** (predominantly located in the periphery and in the city's historic center). And that is what we found!
 
-<img height="500" alt="image" class="center" src="https://user-images.githubusercontent.com/97998623/167061074-40ebffc3-129b-4d41-8585-6cdaa027b074.jpg">
+<img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167061074-40ebffc3-129b-4d41-8585-6cdaa027b074.jpg">
 
 
 
@@ -78,11 +78,11 @@ Another way of looking at the same question, is by observing the map below. This
 ### OODC SPENDING: BREAKDOWN
 The pie chart below shows the breakdown of OODC spending by type of project funded between 2013 and 2020. During this time period more than **2/3 of the funds were spent on housing (43% of total) and transportation (29% of total)**. Santoro et al. (2016) highlight that increasing the share of funds spent on these two types of projects was a demand of civil society groups, which had a strong involvement in drafting São Paulo's new master plan in 2014. The investment on housing encompasses not only social housing projects, but also the acquisition of land to develop social housing, land tenure regularization and slum upgrading initiatives. Transportation projects entail bus and bicycle lanes, sidewalk and road improvements.
 
-<img width="350" class="center" alt="image" src="https://user-images.githubusercontent.com/97998623/167061260-0a133a5d-3b59-4adf-93b1-030b0f7d09c3.jpg">
+<img width="350" align="middle" alt="image" src="https://user-images.githubusercontent.com/97998623/167061260-0a133a5d-3b59-4adf-93b1-030b0f7d09c3.jpg">
 
 A closer look at the breakdown of OODC spending according to district type, shows a more heterogenous picture. Spending on Central districts, areas with virtually no parks an deteriorated housing stock, was concentrated on green spaces (36%) and social housing (39%). Similarly, in low-income districts, where OODC spending was directed to housing (47%), transportation (27%) and Water and sanitation projecs (19%).In upper-middle class districts, on the other hand, more than half of spending was allocated to transportation projects. 
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/97998623/167061300-4a9a763c-d7fd-4cbc-bd52-d8da0a20f808.jpg">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/97998623/167061300-4a9a763c-d7fd-4cbc-bd52-d8da0a20f808.jpg">
 
 
 <br>
