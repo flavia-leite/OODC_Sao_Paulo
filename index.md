@@ -1,7 +1,6 @@
 # The OODC and its "Robin Hood" approach to city building
 by Flávia Leite
 
-<br>
 ### INTRODUCTION
 The **Outorga Onerosa do Direito de Construir (OODC)** - or the onerous grant of the right to build - is one of Brazil's main instruments of municipal urban planning. The OODC was brought in by the 2001 Statute of the City (Estatuto da Cidade), the national law regulating the Brazilian Constitution's articles on urban policy. The OODC regulates the payment by developers of additional building rights - those who want to build above a specific Floor Area Ratio (FAR) have to pay the OODC to a municipality.
 
@@ -65,6 +64,7 @@ I also used the 2010 census of IBGE, to get data on income and household charact
 ### REVENUE AND SPENDING
 
 WHERE WERE OODC REVENUES RAISED?
+
 The collection of OODC has not been homogeneous throughout the city. The map below shows the percentage of the population living in favelas in each city district and real estate projects (red dots) that paid OODC between 2013 and 2020. Most of these projects are located in the southwest part of the city, where high-income households live, and the real estate market concentrates its activities.
 
 <img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167071337-104a352b-c2d4-40f8-9c4d-35d99e9b367d.jpg">
@@ -72,6 +72,7 @@ The collection of OODC has not been homogeneous throughout the city. The map bel
 
 
 WHERE WERE OODC FUNDS SPENT?
+
 FUNDURB Spending has not been uniform either. As the map below shows, between 2013 and 2020, spending was concentrated in the São Paulo's historic center and in some peripheral districts in the South and East parts of the city, where many low-income households live. Still, the amount spent in many poor communities (light pink) was very low, ranging between R$5millionn ($1 million) and R$17million ($3.4 million). This low spending raises questions about the OODC impact on some districts.
 
 <img height="500" align="middle" alt="image" src="https://user-images.githubusercontent.com/97998623/167071401-1ade4b21-4406-41ad-9e67-918c9f342883.jpg">
