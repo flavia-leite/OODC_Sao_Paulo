@@ -62,18 +62,18 @@ _Where were OODC revenues raised?_
 
 The collection of OODC has not been homogeneous throughout the city. The map below shows, the percentage of population living in favelas in each city district, as well as real estate projects (red dots) that paid OODC between 2013 and 2020. Most of these projects are located in the **southweast part of the city**, where high-income households live and the real estate market concentrates its activities.
 
-<img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167060988-80e57e74-3206-44cb-98aa-800a58736cbb.jpg">
+<img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167071337-104a352b-c2d4-40f8-9c4d-35d99e9b367d.jpg">
 
 
 _Where were the OODC funds spent?_
  
 Spending of OODC funds has not been uniform either. As the map below shows, between 2013 and 2020, spending was concentrated in the São Paulo's historic center and in some peripheral districts in the **South and East part of the city**, where low-income households are concentrated. Still, the amount spent in many poor districts was very low, ranging between $5million and $17million, corresponding to the amount spent on many high-income areas in the southweast region.
 
-<img height="500" align="middle" alt="image" src="https://user-images.githubusercontent.com/97998623/167061032-77bc1b82-3d30-4622-8633-c2e2d24fafe9.jpg">
+<img height="500" align="middle" alt="image" src="https://user-images.githubusercontent.com/97998623/167071401-1ade4b21-4406-41ad-9e67-918c9f342883.jpg">
 
 Another way of looking at the same question, is by observing the map below. This map shows the ratio of OODC spending to OODC revenues by District. A ratio higher than one means that a district receive more OODC spending than what it generated. Considering the OODC redistributive purposes, we expect to see **higher ratios in low-income districts** (predominantly located in the periphery and in the city's historic center). And that is what we found!
 
-<img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167061074-40ebffc3-129b-4d41-8585-6cdaa027b074.jpg">
+<img height="500" alt="image" align="middle" src="https://user-images.githubusercontent.com/97998623/167071434-bd836c66-2292-4506-a246-b1a4563e949d.jpg">
 
 
 
