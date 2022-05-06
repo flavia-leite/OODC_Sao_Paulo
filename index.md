@@ -10,7 +10,6 @@ Although regulated at the national level in 2001, the OODC is still a poorly dis
 
 <script type="module" src="https://unpkg.com/x-frame-bypass"></script>
 <iframe is="x-frame-bypass" style="width: 500px; height: 400px; border: 0px" src="https://github.com/flavia-leite/OODC_Sao_Paulo/blob/a461c9ec0d9099a2a0e25f03034a36ad0a6c6144/m.html" > </iframe>
-[link](https://htmlpreview.github.io/?https://github.com/flavia-leite/OODC_Sao_Paulo/blob/a461c9ec0d9099a2a0e25f03034a36ad0a6c6144/m.html)
 Source: [IBGE. (2018) “Pesquisa de  Informações  Básicas  Municipais”](https://www.ibge.gov.br/estatisticas/sociais/educacao/10586-pesquisa-de-informacoes-basicas-municipais.html?=&t=resultados)
 
 
@@ -86,7 +85,7 @@ The pie chart below shows the breakdown of OODC spending by type of project fund
 
 A closer look at the breakdown of OODC spending according to district type, shows a more heterogenous picture. Spending on Central districts, areas with virtually no parks an deteriorated housing stock, was concentrated on green spaces (36%) and social housing (39%). Similarly, in low-income districts, where OODC spending was directed to housing (47%), transportation (27%) and Water and sanitation projecs (19%).In upper-middle class districts, on the other hand, more than half of spending was allocated to transportation projects. 
 
-<img width="900" alt="image" src="https://user-images.githubusercontent.com/97998623/167061300-4a9a763c-d7fd-4cbc-bd52-d8da0a20f808.jpg">
+<img height="400" alt="image" src="https://user-images.githubusercontent.com/97998623/167061300-4a9a763c-d7fd-4cbc-bd52-d8da0a20f808.jpg">
 
 
 <br>
@@ -94,7 +93,7 @@ A closer look at the breakdown of OODC spending according to district type, show
 Providing an even more detailed look at the OODC spending, we can see how FUNDURB revenues have been used to fund social housing-related investments. As described above, not all of this investment refer to housing projects, most of them are actually related to the acquisition of land to develop social housing, land tenure regularization and slum upgrading initiatives. The map below (_interactive map you can click on it!_) shows how these investments are spread troughout the city and what is the average income per household per census tracts (the smallest territorial unity for which data are available). The majority of social housing-related investments are on the east side of the city, the lowest income region of São Paulo, and on the southweast region, the highest income region were the municipality intends to bring more social housing and also where the largest favela of the city (Paraisópolis) is located.
 
 
-<img height="500"" alt="image_sp_map" src="https://user-images.githubusercontent.com/97998623/167063299-a05e9478-93f0-4cdd-86ba-d330b2507f64.png">
+<img height="500" alt="image_sp_map" src="https://user-images.githubusercontent.com/97998623/167063299-a05e9478-93f0-4cdd-86ba-d330b2507f64.png">
 
 
 
