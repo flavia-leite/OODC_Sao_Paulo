@@ -84,11 +84,11 @@ Another way of looking at the same question is observing the map below. It shows
 ### FUNDURB SPENDING: BREAKDOWN BY CATEGORY
 The pie chart below shows the breakdown of FUNDURB's spending by type of project funded between 2013 and 2020. During this period, more than 2/3 of the funds were spent on housing (43% of the total) and transportation (29% of the total). Santoro et al. (2016) highlight that increasing the share of funds spent on these two types of projects was a demand of civil society groups, which had a strong involvement in drafting São Paulo's new master plan in 2014. The investment in housing encompasses social housing projects, land acquisition, land tenure regularization, and slum upgrading initiatives. Transportation projects entail bus and bicycle lanes and sidewalk and road improvements.
 
-<img width="350" align="middle" alt="image" src="https://user-images.githubusercontent.com/97998623/167061260-0a133a5d-3b59-4adf-93b1-030b0f7d09c3.jpg">
+<img width="350" align="middle" alt="image" src="https://user-images.githubusercontent.com/97998623/167338568-fc93ef49-c122-4d2d-ae65-93defb45792a.jpg">
 
 A closer look at the breakdown of FUNDURB's spending according to district type shows a more heterogeneous picture. Spending on Central districts, with few parks and a deteriorated housing stock, was concentrated on green spaces (36%) and social housing (39%). In low-income districts, FUNDURB spending was targeted at housing (47%), transportation (27%), and Water and sanitation projects (19%). In upper-middle-class districts, on the other hand, more than half of spending went to transportation projects. 
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/97998623/167072928-be040e21-0de5-4dcb-b514-ee32d02c88a9.jpg">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/97998623/167338581-8bb13b43-7ce8-42bd-b485-4d2b0def1387.jpg">
 
 
 ### FUNDURB SPENDING: HOUSING
